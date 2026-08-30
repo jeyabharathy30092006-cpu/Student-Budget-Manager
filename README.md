@@ -36,14 +36,11 @@ Student Budget Manager helps students keep track of their daily financial activi
 
 ## 📸 Screenshots
 ### 🏠 Dashboard
-![Student Budget Manager Dashboard]
-(screenshot 1.jpg)
+![Student Budget Manager Dashboard](./screenshot%201.jpg)
 ### 📊 Budget & Savings
-![Budget and Savings]
-(screenshot 2.jpg)
+![Budget and Savings](./screenshot%202.jpg)
 ### 📈 Reports & Smart Suggestions
-![Reports and Smart Suggestions]
-(screenshot 3.jpg)
+![Reports and Smart Suggestions](./screenshot%203.jpg)
 
 ## 🎯 Project Objective
 The main objective of this project is to help students develop better financial management habits by providing an easy-to-use digital budgeting tool.
