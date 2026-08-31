@@ -54,7 +54,9 @@ The main objective of this project is to help students develop better financial 
 - Mobile application
 
 ## 👨‍💻 Author
+
 **Jeya Bharathy**
+
 Computer Science and Engineering Student
 
 ## ⭐ Support
